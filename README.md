@@ -1,6 +1,6 @@
 # Bellhound Sounds
 
-Public audio cues for [Bellhound](https://github.com/justinweiler/Bellhound), the model-neutral telephone bridge for interactive agents.
+Public audio cues for Bellhound, the model-neutral telephone bridge for interactive agents. The main [Bellhound repository](https://github.com/justinweiler/Bellhound) is currently in private pilot; that link will resolve publicly when the project is released.
 
 ## Default thinking cue
 
